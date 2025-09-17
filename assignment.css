@@ -22,6 +22,7 @@ html,body {
     margin-top: 220px;
     padding-top: 30px;
     scroll-margin-top: 220px;
+    background-color: rgb(253, 253, 253);
 }
 .text_head
 {
@@ -134,7 +135,7 @@ html,body {
 }
 #links
 {
-    background-color: #2077b1;
+    background-color:  #010a0f;
     padding-top: 2px;
     padding-bottom: 2px;
     scroll-margin-top: 240px;
@@ -209,7 +210,7 @@ html,body {
 }
 .footer 
 {
-    background: #1a6ea7;
+    background: #000305ee;
     color: white;
     padding: 20px 0;
     text-align: center;
