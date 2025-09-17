@@ -43,7 +43,7 @@ html,body {
     justify-content: center;
     gap: 25px;
     z-index: 1000;
-    background-color: #1a6ea7;
+    background-color: #222b32;
     padding: 10px 0;
 }
 
@@ -68,7 +68,7 @@ html,body {
     bottom: 4px;
     width: 0;
     height: 4px;
-    background: linear-gradient(45deg,#5c11d4,#0514df);
+    background: linear-gradient(45deg,#d41138,#0514df);
     border-radius: 4px;
     transition: width 0.3s ease;
 }
@@ -135,7 +135,7 @@ html,body {
 }
 #links
 {
-    background-color:  #010a0f;
+    background-color: #010a0f; 
     padding-top: 2px;
     padding-bottom: 2px;
     scroll-margin-top: 240px;
