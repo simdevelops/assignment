@@ -22,7 +22,8 @@ html,body {
     margin-top: 220px;
     padding-top: 30px;
     scroll-margin-top: 220px;
-    background-color: rgb(253, 253, 253);
+    padding-bottom: 2px;
+    background-color: rgba(1, 0, 0, 0.93);
 }
 .text_head
 {
@@ -81,12 +82,14 @@ html,body {
     text-align: center;
     font-size: 45px;
     margin-top: 30px;
+    color: white;
 }
 .heads_a
 {
     text-align: center;
     font-size: 45px;
     margin-top: 30px;
+    color: white;
 
 }
 .heads_link
@@ -109,12 +112,13 @@ html,body {
 .sub_heads
 {
     margin-left: 30px;
-    color: #000000;
+    color: #ffffff;
 }
 .para
 {
     margin: 10px 0 20px 30px;
     font-size: 17px;
+    color: white;
 }
 .code
 {
@@ -142,7 +146,7 @@ html,body {
 }
 #list
 {
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.899);
     padding-top: 2px;
     padding-bottom: 2px;
     scroll-margin-top: 240px;
@@ -163,7 +167,7 @@ html,body {
 }
 #about
 {
-    background-color: rgb(255, 228, 196);
+    background-color: rgba(4, 3, 1, 0.899);
     padding-top: 2px;
     padding-bottom: 2px;
     scroll-margin-top: 240px;
@@ -202,7 +206,7 @@ html,body {
 {
     margin: 2px 0;
     font-size: 14px;
-    color: #333;
+    color: #ffffff;
 }
 #contact
 {
